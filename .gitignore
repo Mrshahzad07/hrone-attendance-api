@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment variables & local secrets
+.env
+*.env
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE / Editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local Interview Prep (kept local, not part of submission)
+INTERVIEW_NOTES.md
+MASTER_INTERVIEW_GUIDE.md
+
+# Temporary database dumps
+dump/
+*.dump
+mongo_data/
+
+# Problem statement & local assignment docs (do not post publicly)
+PROBLEM_STATEMENT.docx
+*.docx
+*.pdf
+
