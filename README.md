@@ -67,5 +67,4 @@ python tests/gen_100k.py
 
 - [`REVIEW.md`](file:///d:/sdt-project/REVIEW.md): Detailed defect analysis of the starter code and architectural fixes (Part A).
 - [`DECISIONS.md`](file:///d:/sdt-project/DECISIONS.md): Core design decisions regarding indexing, concurrency serialization, ties, and scaling (Part C).
-- [`INTERVIEW_NOTES.md`](file:///d:/sdt-project/INTERVIEW_NOTES.md): Comprehensive interview preparation guide, endpoint diagrams, function-by-function explanations, and live-coding guides.
 

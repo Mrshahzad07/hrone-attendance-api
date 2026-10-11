@@ -23,11 +23,6 @@ htmlcov/
 .idea/
 *.swp
 *.swo
-
-# Local Interview Prep (kept local, not part of submission)
-INTERVIEW_NOTES.md
-MASTER_INTERVIEW_GUIDE.md
-
 # Temporary database dumps
 dump/
 *.dump
